@@ -2,7 +2,6 @@ module 02_API-gin-noDB
 
 go 1.19
 
-
 require (
     github.com/gin-gonic/gin v1.7.7
 	github.com/gin-contrib/sse v0.1.0 // indirect
